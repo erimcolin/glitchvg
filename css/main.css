@@ -1,0 +1,10 @@
+.coment {
+  border: 1px solid grey;
+  border-radius: 2px;
+  padding: 10px;
+}
+
+.brand-logo {
+  border-radius: 2px;
+  margin-left: 10px;
+}
